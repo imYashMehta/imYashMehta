@@ -35,7 +35,6 @@ Visual Studio Code
 
 <br>
 
-<h2>⚙️ Projects  </h2>
 
 | <h3>Project Name</h3> | | <h3>Techstack</h3> | <h3>Status</h3> | <h3>Progess</h3> | <h3>Link</h3> |
 |-----------|-----------|-----------|-----------|-----------|-----------| 
