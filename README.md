@@ -7,20 +7,24 @@
 
 ---
 
-### 💻 Technical Skills
+### 💻 Technical Skills    <img align="right" width="200" height="150" alt="Languages" src="https://github.com/user-attachments/assets/54552b9f-4ffc-48a1-891d-aa254747ab95" />
 
-**Languages:**  
-CPP, Java, Python, C, JavaScript, HTML/CSS 
 
+**Languages:**               
+CPP, Java, Python, C, JavaScript, HTML/CSS    
+
+<img align="right" width="334" height="69" alt="Database" src="https://github.com/user-attachments/assets/d79e346c-6968-4003-8cd8-b65411c4a509" />
 
 **Databases:**  
-MySQL,MongoDB  
+MySQL,MongoDB    
 
 **Frameworks & Libraries:**  
+<img align="right" width="193" height="54" alt="Screenshot_2025-09-03_210642-removebg-preview" src="https://github.com/user-attachments/assets/a7a76792-ec77-458c-8198-fe9b94af18be" />
 React.js, pandas, Tkinter                        
 
 **Developer Tools:**  
-Visual Studio Code  
+Visual Studio Code 
+
 
 ---
 
