@@ -10,14 +10,14 @@
 ### 💻 Technical Skills
 
 **Languages:**  
-CPP, Java, Python, C, JavaScript, HTML/CSS  
+CPP, Java, Python, C, JavaScript, HTML/CSS                    <img width="250" height="144" alt="Screenshot_2025-09-03_210630-removebg-preview" src="https://github.com/user-attachments/assets/78b1e75e-d631-4434-b953-c40d211b2eb9" />
+
 
 **Databases:**  
 MySQL,MongoDB  
 
 **Frameworks & Libraries:**  
-React.js, pandas, Tkinter                         <img width="250" height="144" alt="Screenshot_2025-09-03_210630-removebg-preview" src="https://github.com/user-attachments/assets/78b1e75e-d631-4434-b953-c40d211b2eb9" />
-
+React.js, pandas, Tkinter                        
 
 **Developer Tools:**  
 Visual Studio Code  
