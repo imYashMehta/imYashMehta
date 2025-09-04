@@ -11,7 +11,7 @@
 
 
 **Languages:**               
-CPP, Java, Python, C, JavaScript, HTML/CSS    
+CPP, Java, Python, C, JavaScript, HTML/CSS, Tailwind CSS
 
 <img align="right" width="334" height="69" alt="Database" src="https://github.com/user-attachments/assets/d79e346c-6968-4003-8cd8-b65411c4a509" />
 
