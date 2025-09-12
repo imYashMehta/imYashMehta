@@ -46,6 +46,7 @@ Visual Studio Code
 |  <p align = "center">SafeVault</p> |<img src="https://w7.pngwing.com/pngs/447/294/png-transparent-python-javascript-logo-clojure-python-logo-blue-angle-text-thumbnail.png" alt="Rait" width="30" height="30"/>      <img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" alt="Rait" width="30" height="30"/> | <p align = "center">Python<br>MySQL</p>| <p align = “center”> Completed </p> | <p align = "center">100%</p>|[Source Code](https://github.com/imYashMehta/Safe-Vault)|
 |  <p align = "center">To-Do Website</p> |<img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" alt="Rait" width="80" height="80"/> | <p align = "center">HTML<br>CSS<br>JS</p>| <p align = “center”> Completed </p> | <p align = "center">100%</p>|[Source Code](https://github.com/imYashMehta/To-Do-App)|
 |  <p align = "center">Web Music Player</p> |<img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" alt="Rait" width="80" height="80"/> | <p align = "center">HTML<br>CSS<br>JS</p>| <p align = “center”> Completed </p> | <p align = "center">100%</p>|[Source Code](https://github.com/imYashMehta/Music-Player-Website)|
+|  <p align = "center">E-Commerce</p> |<img src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" alt="Rait" width="80" height="80"/> | <p align = "center">HTML<br>CSS<br>JS</p>| <p align = “center”> Completed </p> | <p align = "center">100%</p>|[Source Code](https://github.com/imYashMehta/E-Commerce-Website)|
 
 
 
@@ -58,6 +59,10 @@ Visual Studio Code
     <li>
       <strong>LinkedIn : </strong>
       <a href="http://www.linkedin.com/in/yashmehta30" target="_blank">@yashmehta30</a>
+    </li>
+    <li>
+      <strong>Portfolio : </strong>
+      <a href="https://yashportfolio-peach.vercel.app/" target="_blank">Yash Mehta</a>
     </li>
    
   </ul>
