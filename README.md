@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Data Structures and Algorithms using CPP.  
 - 🎓 Pursuing B.Tech in Computer Science & Engineering (Artificial Intelligence).  
 - 📫 **Get in Touch**: yashmehtawork30@gmail.com
+- 🔗 Visit: <a href="https://yashportfolio-peach.vercel.app/" target="_blank">Yash Mehta</a>
 
 ---
 
